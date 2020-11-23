@@ -1,0 +1,123 @@
+,x,t0
+Imputation_,Imputation code,0
+Gruppenart,Study group,0
+sibar1bt0,Age,1
+sibar1at0,Sex,1
+Indikation,Medical Indication,0
+schulab,Education,0
+Behandlungsdauer,Time between intake and discharge (weeks),0
+sibar5at1,Duration of sick leaves in the last 12 months (weeks),0
+Arbeitsunf,Status of work ability at T1 (physicians' rating),0
+leistft1,Work capacity T1,0
+rentet1,Application for pension T1,0
+sibar2t1,Do you consider your work ability permanently threatened by your health status?,0
+sibar5t1,When you consider your current health and work ability: Do you believe that you will be working until retirement age?,0
+login,Login after discharge,0
+tn_blog,Participation intervention (min. 1 Blog),0
+blogs,Number of blogs,0
+zufig1at2,Frequency Reading blogs (IG),0
+zufig1bt2,Frequency Reading therapeutic feedback (IG),0
+zufig1ct2,Frequency Using work sheets (IG),0
+zufig1dt2,Frequency Listening to relaxation techniques (IG),0
+zufig1et2,Frequency Reading posts in the forum (IG),0
+zufig1ft2,Frequency Writing post in the forum (IG),0
+zufig2at2,Helpful Writing blogs (IG),0
+zufig2bt2,Helpful Reading therapeutic feedback (IG),0
+zufig2ct2,Helpful Using work sheets (IG),0
+zufig2dt2,Helpful Listening to relaxation techniques (IG),0
+zufig2et2,Helpful Reading posts in the forum (IG),0
+zufig2ft2,Helpful Writing posts in the forum (IG),0
+zufig2gt2,Helpful Online aftercare alltogether (IG),0
+zufig3t2,Helpful Alliance with online therapist (IG),0
+zufkg1at2,Frequency Stress management info (CG),0
+zufkg1bt2,Frequency Healthy diet info (CG),0
+zufkg1ct2,Frequency Sports/ physical activity info (CG),0
+zufkg1dt2,Frequency Sleep info (CG),0
+zufkg1et2,Frequency Relaxation info (CG),0
+zufkg2at2,Helpful Stress management info (CG),0
+zufkg2bt2,Helpful Healthy diet info (CG),0
+zufkg2ct2,Helpful Sports/ physical activity info (CG),0
+zufkg2dt2,Helpful Sleep info (CG),0
+zufkg2et2,Helpful Relaxation info (CG),0
+zufkg2ft2,Helpful Online aftercare alltogether (CG),0
+zufges_t2_dichotom,Dichotomised Helpfulness Online aftercare alltogether,0
+spe_sum_t0,Sumscore SPE T0,1
+spe_sum_t1,Sumscore SPE T1,0
+spe_sum_t2,Sumscore SPE T2,0
+spe_sum_t3,Sumscore SPE T3,0
+PHQ_Dept0,Sumscore (0-27) depressive symptoms (PHQ-9) T0,1
+PHQ_Dept1,Sumscore (0-27) depressive symptoms (PHQ-9) T1,0
+PHQ_Dept2,Sumscore (0-27) depressive symptoms (PHQ-9) T2,0
+PHQ_Dept3,Sumscore (0-27) depressive symptoms (PHQ-9) T3,0
+PHQSomT0,Sumscore (0-30) somatoform symptoms (PHQ-15) T0,1
+PHQSomT1,Sumscore (0-30) somatoform symptoms (PHQ-15) T1,0
+PHQSomT2,Sumscore (0-30) somatoform symptoms (PHQ-15) T2,0
+PHQSomT3,Sumscore (0-30) somatoform symptoms (PHQ-15) T3,0
+PHQStressT0,Sumscore (0-20) PHQ-stress T0,1
+PHQStressT1,Sumscore (0-20) PHQ-stress T1,0
+PHQStressT2,Sumscore (0-20) PHQ-stress T2,0
+PHQStressT3,Sumscore (0-20) PHQ-stress T3,0
+GAD7T0,Sumscore (0-21) generalized anxiety (GAD-7) T0,1
+GAD7T1,Sumscore (0-21) generalized anxiety (GAD-7) T1,0
+GAD7T2,Sumscore (0-21) generalized anxiety (GAD-7) T2,0
+GAD7T3,Sumscore (0-21) generalized anxiety (GAD-7) T3,0
+KSK12t0,SF-12 Physical Component Summary (T0),1
+PSK12t0,SF-12 Mental Component Summary (T0),1
+KSK12t1,SF-12 Physical Component Summary (T1),0
+PSK12t1,SF-12 Mental Component Summary (T1),0
+KSK12t2,SF-12 Physical Component Summary (T2),0
+PSK12t2,SF-12 Mental Component Summary (T2),0
+KSK12t3,SF-12 Physical Component Summaryt (T3),0
+PSK12t3,SF-12 Mental Component Summary (T3),0
+AV_n1_t0,AVEM Subjective importance of work T0 (Stanine-Werte),1
+AV_n2_t0,AVEM Work related ambition T0 (Stanine-Werte),1
+AV_n3_t0,AVEM Willingness to work until exhausted T0 (Stanine-Werte),1
+AV_n4_t0,AVEM Striving for perfection T0 (Stanine-Werte),1
+AV_n5_t0,AVEM Distancing ability T0 (Stanine-Werte),1
+AV_n6_t0,AVEM Tendency to resignation T0 (Stanine-Werte),1
+AV_n7_t0,AVEM Proactive problem solving T0 (Stanine-Werte),1
+AV_n8_t0,AVEM Inner calm and balance T0 (Stanine-Werte),1
+AV_n9_t0,AVEM Experience of success at work T0 (Stanine-Werte),1
+AV_n10_t0,AVEM Satisfaction with life T0 (Stanine-Werte),1
+AV_n11_t0,AVEM Experience of social support T0 (Stanine-Werte),1
+AV_n1_t1,AVEM Subjective importance of work T1 (Stanine-Werte),0
+AV_n2_t1,AVEM Work related ambition T1 (Stanine-Werte),0
+AV_n3_t1,AVEM Willingness to work until exhausted T1 (Stanine-Werte),0
+AV_n4_t1,AVEM Striving for perfection T1 (Stanine-Werte),0
+AV_n5_t1,AVEM Distancing ability T1 (Stanine-Werte),0
+AV_n6_t1,AVEM Tendency to resignation T1 (Stanine-Werte),0
+AV_n7_t1,AVEM Proactive problem solving T1 (Stanine-Werte),0
+AV_n8_t1,AVEM Inner calm and balance T1 (Stanine-Werte),0
+AV_n9_t1,AVEM Experience of success at work T1 (Stanine-Werte),0
+AV_n10_t1,AVEM Satisfaction with life T1 (Stanine-Werte),0
+AV_n11_t1,AVEM Experience of social support T1 (Stanine-Werte),0
+AV_n1_t2,AVEM Subjective importance of work T2 (Stanine-Werte),0
+AV_n2_t2,AVEM Work related ambition T2 (Stanine-Werte),0
+AV_n3_t2,AVEM Willingness to work until exhausted T2 (Stanine-Werte),0
+AV_n4_t2,AVEM Striving for perfection T2 (Stanine-Werte),0
+AV_n5_t2,AVEM Distancing ability T2 (Stanine-Werte),0
+AV_n6_t2,AVEM Tendency to resignation T2 (Stanine-Werte),0
+AV_n7_t2,AVEM Proactive problem solving T2 (Stanine-Werte),0
+AV_n8_t2,AVEM Inner calm and balance T2 (Stanine-Werte),0
+AV_n9_t2,AVEM Experience of success at work T2 (Stanine-Werte),0
+AV_n10_t2,AVEM Satisfaction with life T2 (Stanine-Werte),0
+AV_n11_t2,AVEM Experience of social support T2 (Stanine-Werte),0
+AV_n1_t3,AVEM Subjective importance of work T3 (Stanine-Werte),0
+AV_n2_t3,AVEM Work related ambition T3 (Stanine-Werte),0
+AV_n3_t3,AVEM Willingness to work until exhausted T3 (Stanine-Werte),0
+AV_n4_t3,AVEM Striving for perfection T3 (Stanine-Werte),0
+AV_n5_t3,AVEM Distancing ability T3 (Stanine-Werte),0
+AV_n6_t3,AVEM Tendency to resignation T3 (Stanine-Werte),0
+AV_n7_t3,AVEM Proactive problem solving T3 (Stanine-Werte),0
+AV_n8_t3,AVEM Inner calm and balance T3 (Stanine-Werte),0
+AV_n9_t3,AVEM Experience of success at work T3 (Stanine-Werte),0
+AV_n10_t3,AVEM Satisfaction with life T3 (Stanine-Werte),0
+AV_n11_t3,AVEM Experience of social support T3 (Stanine-Werte),0
+sibar_risk,"SIBAR Risk Score (0-19, Cutoff 8) T0",0
+sibar_risk_di,SIBAR Risc Score > 8 T0,0
+sibar_risk_t1,"SIBAR Risk Score (0-19, Cutoff 8) T1",0
+sibar_risk_di_t1,SIBAR Risc Score > 8 T1,0
+sibar_riskt2,"SIBAR Risk Score (0-19, Cutoff 8) T2",0
+sibar_riskdi_t2,SIBAR Risc Score > 8 T2,0
+sibar_riskt3,"SIBAR Risk Score (0-19, Cutoff 8) T3",0
+sibar_riskdi_t3,SIBAR Risc Score > 8 T3,0
